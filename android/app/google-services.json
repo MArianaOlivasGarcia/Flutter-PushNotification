@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778366187233",
+    "firebase_url": "https://heroes-c5ae9.firebaseio.com",
+    "project_id": "heroes-c5ae9",
+    "storage_bucket": "heroes-c5ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778366187233:android:ada7e360409bcf0587a9a0",
+        "android_client_info": {
+          "package_name": "com.marianaolivas.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778366187233-vbaglp32lo2g3pf2emotjfhc4cih4vkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marianaolivas.push",
+            "certificate_hash": "07b910588d2716a209c0ae889a3e4c4b78737c02"
+          }
+        },
+        {
+          "client_id": "778366187233-68p8a41b9vauqihbal0s1oi9ji56d0j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiApMKIrZr0HKYzDZSVAyZFc1fTXpdPig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778366187233-68p8a41b9vauqihbal0s1oi9ji56d0j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
